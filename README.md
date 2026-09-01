@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-365-green?logo=microsoftexcel" alt="Excel 365" />
   <img src="https://img.shields.io/badge/Power_Query-ETL-yellow?logo=microsoft" alt="Power Query" />
-  <img src="https://img.shields.io/badge/DAX-Intelligence/Power_Pivot-blue?logo=microsoft" alt="DAX Intelligence" />
+  <img src="https://img.shields.io/badge/DAX-Time Intelligence/Power_Pivot-blue?logo=microsoft" alt="DAX Intelligence" />
   <img src="https://img.shields.io/badge/Dashboards-UI/UX Design-orange" alt="Dashboards" />
 </p>
 
@@ -39,7 +39,7 @@
 * Generated a dedicated, continuous **Date Table** to safely host advanced time-intelligence calculations.  
 * Formed standard **1-to-many relationships** across core identity keys (`Product_ID`, `Customer_ID`, `Employee_ID`, `Campaign_ID`).  
 
-### 3️⃣ DAX —  Intelligences & KPIs   
+### 3️⃣ DAX —  Time Intelligence & KPIs   
 ![Alt text](images/ratail.gh.dax3.png)  
 *Built a dynamic KPI engine with DAX intelligence.  
 *live metrics + automatic YoY comparisons that recalculate across any date, country, or category filter. Zero hardcoded values. Zero manual updates.  
