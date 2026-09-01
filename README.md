@@ -55,7 +55,7 @@
 
 ## 🚀 How to Use
 
-1. **Open:**  Download the file and open in excel. Enable editing.
+1. **Open:**  Download the file "RetailMax_Global_sales_analytics and open in excel. Enable editing.
 2. **Navigate:** Move between sheets using the left sidebar menu or the Executive Dashboard quick links.
 3. **Filter:** Narrow down analytical scopes by interacting with the custom pill-style slicers (`Year` · `Quarter` · `Country` · `Category`).
 4. **Drill Down:** Jump to targeted segments instantly via specialized sub-dashboards.
