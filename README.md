@@ -67,5 +67,5 @@
 
 <p align="center">
   <b>Built for portfolio demonstration</b><br>
-  Dataset: RetailMax Global e-commerce Records (2023–2025)
+  Dataset: Raw_Data_RetailMax.xlsx
 </p>
