@@ -21,6 +21,26 @@
 | **📑 Sheets** | 18 total (1 Executive Dashboard . 4 segment based dashboards · 5 detailed pivot data table · 8 cleaned and formatted raw data) |
 
 ---
+# 🎯 What my Analysis Answers
+
+
+**"Are we growing or just getting lucky?"**  
+→ Total Revenue:$175.8M, **↑23.4% YoY**.       
+→ Average Order Value **$3,516** **↑0.12%YoY**.    
+  You're not getting lucky. You're selling bigger.  
+  ![Alt text](images/qus.1.rev.aov.png)  
+
+**"Where do I put my next dollar?"**  
+→ Top Campaign: "Social Media" **1.5k% ROI**.    
+→Top Category "Toys & Games"; $19.3M, **11%** of all revenue.    
+  The data already picked your winners.  
+  ![Alt text](images/qus.2;1.next.doller.camp.png)![Alt text](images/qus.2;2.next.doller.categ.png)  
+
+**"Who sells big vs. who sells smart?"**  
+→ Debra Bakers revenue $3.8M, Profit Margin 30.8%,    
+→Jason Martins revenue $3.8M, Profit Margin 31.8%     
+  same revenue but one brings more money.  
+  ![Alt text](images/qus.3.bigVsmart.png)  
 
 ---
 
