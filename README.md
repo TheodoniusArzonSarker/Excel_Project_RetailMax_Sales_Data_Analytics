@@ -18,7 +18,8 @@
 | Metric | Value |
 | :--- | :--- |
 | **🗃️ Records** | 50K transactions · 500 products · 50 employees · 2K customers · 500 reviews . 10k inventory . 200 suppliers |
-| **📑 Sheets** | 18 total (1 Executive Dashboard . 4 segment based dashboards · 5 detailed pivot data table · 8 cleaned and formatted raw data) |
+| **📑 Sheets** | 18 total (1 Executive Dashboard . 4 segment based dashboards · 5 detailed pivot data table · 8 cleaned and formatted raw data) |  
+| **🪟 Overview** | [See the Raw data dictionary from which this report was made](RetailMax_Data_Dictionary.pdf) |  
 
 ---
 # 🎯 What my Analysis Answers
@@ -87,5 +88,6 @@
 
 <p align="center">
   <b>Built for portfolio demonstration</b><br>
-  Dataset: Raw_Data_RetailMax.xlsx
+  Dataset: [Raw_Data_RetailMax.xlsx](Raw_Data_RetailMax.xlsx)  
+
 </p>
