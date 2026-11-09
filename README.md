@@ -86,8 +86,10 @@
 ---
 ---
 
-<p align="center">
-  <b>Built for portfolio demonstration</b><br>
-  Dataset: [Raw_Data_RetailMax.xlsx](Raw_Data_RetailMax.xlsx)  
+<div align="center">
 
-</p>
+**Built for portfolio demonstration**  
+Dataset: [Raw_Data_RetailMax.xlsx](Raw_Data_RetailMax.xlsx)
+
+</div>
+
